@@ -8,3 +8,6 @@ Designed an interactive Power BI dashboard to analyze spending patterns, revenue
 Created KPIs and visualizations for transaction trends, card usage, and financial performance.
 
 Enabled data-driven insights through filters, slicers, and dynamic reports.
+
+## Project Objective
+To develop a comprehensive credit card weekly dashboard that provides real time insights into key performance metrics and trends, enabling stakeholders to monitor and analyze credit crad operations effectively.
