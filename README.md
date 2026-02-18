@@ -1,6 +1,3 @@
-Here is a clean, professional **GitHub README** for your **Credit Card Report (Power BI)** project.
-
----
 
 # Credit Card Analytics Dashboard
 
